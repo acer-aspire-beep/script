@@ -1,0 +1,2 @@
+# script
+only script
