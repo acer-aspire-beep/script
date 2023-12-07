@@ -1,0 +1,15 @@
+*.log
+
+!error.log
+
+senedler?.doc
+
+s?lam.xls
+
+
+logs
+
+
+/view
+
+dir/
