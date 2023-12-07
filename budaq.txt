@@ -1,1 +1,2 @@
 budaq test file dersler
+master budaqi ile birlesdirek
