@@ -1,5 +1,7 @@
 #!/bin/bash
 
+revert test
+
 all_disks_info=$(df -h)
 
 mariadb_service="mariadb"
